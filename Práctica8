@@ -1,14 +1,18 @@
-<html>
-    <head>Lenguajes a estudiar</head>
-    <body>
-        <b><ol type="LENGUAJES A ESTUDIAR" start="1"></ol></b>
-        <li>
-            <p>i. HTML</p>
-            <p>ii.CSS</p>
-            <p>XHTML</p>
-            <p>iv.XML</p>
-            <p>v.XSL</p>
-            <p>vi.RSS</p>
-        </li>
-    </body>    
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Lenguajes a estudiar</title>
+</head>
+<body>
+    <h1>Lenguajes a estudiar</h1>
+    <ol type="i" start="1">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>XHTML</li>
+        <li>XML</li>
+        <li>XSL</li>
+        <li>RSS</li>
+    </ol>
+</body>    
 </html>
