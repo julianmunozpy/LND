@@ -1,0 +1,27 @@
+<html>
+    <b>
+    <head>Administración de Sistemas Informáticos en Red</head>
+    </b>
+    <body>
+        <dl>
+            <dt>&bull; Primer Curso</dt>
+            <dd><p>1. Formación y orientación laboral.</p></dd>
+            <dd><p>2. Fundamentos de Hardware.</p></dd>
+            <dd><p>3. Gestion de bases de datos.</p></dd>
+            <dd><p>4. Implantación de sistemas operativos.</p></dd>
+            <dd><p>5. Lenguajes de marcas.</p></dd>
+            <dd><p>6. Inglés.</p></dd>
+            <dd><p>7. Planificación y administración de redes.</p></dd>
+            <dt>&bull; Segundo curso</dt>
+            <dd><p>1. Administración de SGBD.</p></dd>
+            <dd><p>2. Administración de SO.</p></dd>
+            <dd><p>3. Implantación de aplicaciones web.</p></dd>
+            <dd><p>4. Empresa e inactiva emprendedora.</p></dd>
+            <dd><p>5. Formación en centros de trabajo.</p></dd>
+            <dd><p>6. Seguridad y alta disponibilidad.</p></dd>
+            <dd><p>7. Servicios de red e internet.</p></dd>
+            <dd><p>8. Inglés.</p></dd>
+            <dd><p>9. Proyecto.</p></dd>
+        </dl>
+    </body>    
+</html>
