@@ -1,0 +1,15 @@
+<html>
+    <b>
+    <head>Lenguajes a estudiar</head>
+    </b>
+    <body>
+        <dl>
+            <dt>HTML</dt>
+            <dd><p style="color:red;">Hipertext Transfer Protocol</p></dd>
+            <dt>XML</dt>
+            <dd><p style="color:red;">Extended Markup Language</p></dd>
+            <dt>CSS</dt>
+            <dd><p style="color:red;">Cascade Style Sheet</p></dd>
+        </dl>
+    </body>    
+</html>
