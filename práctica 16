@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Práctica 16 - Animales</title>
+</head>
+<body>
+
+    <h1>Mis Animales Favoritos</h1>
+
+    <h2>Pinguinos</h2>
+    <img src="imagenes/pinguino.jpeg" alt="Pinguinos" width="150" align="left">
+    <p>El pingüino es un ave marina que no puede volar pero nada con una agilidad increíble. Vive principalmente en los climas fríos del hemisferio sur y tiene un plumaje blanco y negro que parece un traje. Se alimenta de peces y pasa gran parte de su vida en las aguas del océano.</p>
+
+    <br clear="all">
+    <br>
+
+    <h2>Tigre Blanco</h2>
+    <img src="imagenes/White_Tiger.png" alt="Tigre Blanco" width="150" align="right">
+    <p>El tigre blanco es una variante del tigre de Bengala que tiene un pelaje claro debido a una condición genética. Destaca por sus hermosos ojos azules y sus rayas oscuras sobre el fondo blanco. Es un cazador solitario y nocturno que habita en zonas de densa vegetación.</p>
+
+    <br clear="all">
+
+</body>
+</html>
