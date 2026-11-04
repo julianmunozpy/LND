@@ -1,0 +1,23 @@
+<table border="1" cellpadding="8" cellspacing="0" style="width: 100%; max-width: 500px; border-collapse: collapse; font-family: sans-serif;">
+  <tr>
+    <td colspan="2"><b>Isla de Tenerife:</b></td>
+  </tr>
+  <tr>
+    <td rowspan="3" align="center" valign="middle">
+      <img src="mapa.jpg" alt="Mapa de Tenerife" width="200">
+    </td>
+    <td><b>Población en 2009:</b></td>
+  </tr>
+  <tr>
+    <td>Hombres: 446.171</td>
+  </tr>
+  <tr>
+    <td>Mujeres: 453.662</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Capital: Santa Cruz de Tenerife</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="right">Fuente: <a href="https://istac.es">ISTAC</a></td>
+  </tr>
+</table>
