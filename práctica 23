@@ -1,0 +1,23 @@
+<table border="0" cellpadding="20" cellspacing="0" style="width: 100%; max-width: 700px; font-family: sans-serif;">
+  <tr>
+    <td valign="middle" align="left" style="width: 35%;">
+      <img src="mapa.jpg" alt="Mapa de Tenerife" width="150">
+    </td>
+    <td valign="middle" align="center" style="width: 65%;">
+      <h3><b>TENERIFE</b></h3>
+      <br><br>
+      <table border="1" cellpadding="6" cellspacing="0">
+        <tr>
+          <td>1</td>
+          <td>2</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>2</td>
+          <td>3</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
