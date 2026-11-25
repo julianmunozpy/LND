@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario de inscripción Club Deportivo</title>
+</head>
+<body>
+
+    <center>
+        <h2>Nombre del alumno o alumna</h2>
+        <img src="logo.png" alt="Logo ASIR GYM" width="140">
+    </center>
+
+    <h3>Formulario de inscripción Club Deportivo</h3>
+
+    <form action="" method="post">
+        
+        <fieldset>
+            <legend>Datos personales</legend>
+            DNI: <input type="text" name="dni"><br>
+            Nombre: <input type="text" name="nombre"><br>
+            Primer Apellido: <input type="text" name="apellido1"><br>
+            Segundo Apellido: <input type="text" name="apellido2"><br>
+            Dirección: <input type="text" name="direccion"><br>
+            Código Postal: <input type="text" name="cp"><br>
+            Población: <input type="text" name="poblacion"><br>
+            Provincia: 
+            <select name="provincia">
+                <option>Santa Cruz de Tenerife</option>
+                <option>Las Palmas</option>
+                <option>Madrid</option>
+                <option>Barcelona</option>
+            </select><br>
+            Teléfono: <input type="tel" name="telefono"><br>
+            Email: <input type="email" name="email"><br>
+            Usuario: <input type="text" name="usuario"><br>
+            Contraseña: <input type="password" name="password"><br>
+            Fecha de nacimiento: <input type="date" name="fecha_nacimiento"><br>
+            Sexo: 
+            <select name="sexo">
+                <option>Mujer</option>
+                <option>Hombre</option>
+                <option>Otro</option>
+            </select><br>
+            Foto o DNI escaneado (PDF/JPG): <input type="file" name="archivo">
+        </fieldset>
+
+        <fieldset>
+            <legend>Deportes y Experiencia</legend>
+            Deporte favorito: 
+            <select name="deporte">
+                <option>Fútbol</option>
+                <option>Baloncesto</option>
+                <option>Tenis</option>
+                <option>Natación</option>
+            </select><br>
+            Experiencia previa en clubes: 
+            <input type="radio" name="experiencia" value="si"> Sí
+            <input type="radio" name="experiencia" value="no"> No<br>
+            Nombre del club anterior: <input type="text" name="club_anterior"><br>
+            Categoría solicitada: 
+            <select name="categoria">
+                <option>Infantil</option>
+                <option>Cadete</option>
+                <option>Juvenil</option>
+                <option>Senior</option>
+            </select>
+        </fieldset>
+
+        <fieldset>
+            <legend>Idiomas y otros datos</legend>
+            Idiomas: 
+            <select name="idiomas" multiple size="4">
+                <option>Español</option>
+                <option>Inglés</option>
+                <option>Francés</option>
+                <option>Otros</option>
+            </select><br>
+            Si marcó 'Otros', especifique: <input type="text" name="otros_idiomas"><br>
+            Otros datos relevantes: <input type="text" name="otros_datos">
+        </fieldset>
+
+        <input type="submit" value="Enviar solicitud">
+        <input type="reset" value="Limpiar formulario">
+
+    </form>
+
+</body>
+</html>
+
